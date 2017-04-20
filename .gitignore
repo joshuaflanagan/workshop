@@ -2,6 +2,6 @@
 Gemfile.lock
 *.gem
 gems
-account_component
-funds_transfer_component
+account-component
+funds-transfer-component
 .example

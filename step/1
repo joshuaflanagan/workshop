@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+echo
+echo "Review project structure"
+echo "- - -"
+echo
+
+pushd account-component > /dev/null
+
+cmd="git checkout -f master"
+
+echo $cmd
+echo
+
+($cmd)
+
+popd

@@ -23,6 +23,8 @@ If you don't want to start it as a daemon, open a new terminal window and run:
 postgres -D /usr/local/var/postgres
 ```
 
+Note that closing the terminal window will cause the database to shut down. If you've started the database with `Postgres -D`, keep the terminal window open for as long as you need to use the database.
+
 On nix:
 
 ```

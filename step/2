@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Review project structure"
 
 # Commit: [STEP] Deposit
-checkout e2ec106 account-component
+checkout 2aca070 account-component

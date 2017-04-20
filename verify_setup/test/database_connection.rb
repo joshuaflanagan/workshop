@@ -6,8 +6,6 @@ context "Database Connection" do
   refute(session.connected?)
 
   test "Connects on first use" do
-    refute proc { session.execute('SELECT 1;') } do
-      raises_error?
-    end
+    session.execute('SELECT 1;')
   end
 end

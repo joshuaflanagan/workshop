@@ -4,3 +4,4 @@ Gemfile.lock
 gems
 account_component
 funds_transfer_component
+.example

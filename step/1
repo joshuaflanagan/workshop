@@ -1,17 +1,7 @@
 #!/usr/bin/env bash
 
-echo
-echo "Review project structure"
-echo "- - -"
-echo
+source "${BASH_SOURCE%/*}/step_init.sh"
 
-pushd account-component > /dev/null
+title "Review project structure"
 
-cmd="git checkout -f master"
-
-echo $cmd
-echo
-
-($cmd)
-
-popd
+checkout master account-component

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Store"
+
+# Commit: [STEP] Store
+checkout 844b179 account-component

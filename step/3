@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Account Entity and Projection"
+
+# Commit: [STEP] Entity and projection (deposit)
+checkout 3804ffd account-component

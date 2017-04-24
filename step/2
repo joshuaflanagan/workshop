@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Deposit Review"
 
 # Commit: [STEP] Deposit
-checkout 3c713de account-component
+checkout 3b8db89 account-component

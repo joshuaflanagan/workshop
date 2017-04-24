@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Consumer"
+
+# Commit: [STEP] Consumer
+checkout ------ account-component

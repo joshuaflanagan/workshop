@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Deposit Reservation"
+
+# Commit: [STEP] Deposit reservation
+checkout ------ account-component

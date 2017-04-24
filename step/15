@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Exercise Reissued Deposit"
+
+# Commit: [STEP] Exercise reissued deposit
+checkout ------ account-component

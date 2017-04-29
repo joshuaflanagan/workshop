@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Account Entity and Projection"
 
 # Commit: [STEP] Entity and projection (deposit)
-checkout f1dd3b7 account-component
+checkout 4dd9984 account-component

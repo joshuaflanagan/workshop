@@ -108,9 +108,6 @@ Running /Users/sbellware/projects/eventide/tutorial/account-component-skeleton/t
 Database Connection
   Connects on first use
 
-Finished running 1 file
-Ran 1 test in 0.052s (19.264s tests/second)
-1 passed, 0 skipped, 0 failed, 0 total errors
 ```
 
 ### Get the Example Project Code

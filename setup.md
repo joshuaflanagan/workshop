@@ -46,13 +46,13 @@ This is the repository that we'll be working with through the course the worksho
 Clone the workshop repository to your machine:
 
 ```
-git clone git@github.com:eventide-tutorial/microservice-workshop.git
+git clone git@github.com:eventide-tutorial/workshop.git
 ```
 
 ### Change Directory to the Workshop Directory
 
 ```
-cd microservice-workshop
+cd workshop
 ```
 
 ## Test the Setup

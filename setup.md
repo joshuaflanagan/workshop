@@ -49,6 +49,12 @@ Clone the workshop repository to your machine:
 git clone git@github.com:eventide-tutorial/workshop.git
 ```
 
+Or, if you prefer to retrieve the repository over SSH:
+
+```
+git clone https://github.com/eventide-tutorial/workshop.git
+```
+
 ### Change Directory to the Workshop Directory
 
 ```

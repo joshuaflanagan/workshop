@@ -1,7 +1,7 @@
 require_relative './test_init'
 
 context "Database Connection" do
-  session = EventSource::Postgres::Session.build
+  session = MessageStore::Postgres::Session.build
 
   refute(session.connected?)
 

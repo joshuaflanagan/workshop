@@ -1,8 +1,0 @@
-{
-  "dbname": "event_source",
-  "host": "localhost",
-  "hostaddr": "127.0.0.1",
-  "port": 5432,
-  "password": null,
-  "user": "event_source"
-}

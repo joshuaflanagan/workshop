@@ -77,7 +77,7 @@ cd verify_setup
 
 ### Create the Database
 
-A database named `event_source` along with a user of the same name will be created.
+A database named `message_store` along with a user of the same name will be created.
 
 Run:
 
@@ -88,12 +88,12 @@ bundle exec evt-pg-recreate-db
 ### Copy the Database Settings Example File
 
 ```
-cp settings/event_source_postgres.json.example settings/event_source_postgres.json
+cp settings/message_store_postgres.json.example settings/message_store_postgres.json
 ```
 
 ### Set the Database Password (Optional)
 
-If your database installation requires a password (see _Note for Linux Users_ above), edit `settings/event_source_postgres.json` and change the password value to the database's password.
+If your database installation requires a password (see _Note for Linux Users_ above), edit `settings/message_store_postgres.json` and change the password value to the database's password.
 
 ### Run the Test
 

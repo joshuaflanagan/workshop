@@ -6,3 +6,4 @@ account-component
 funds-transfer-component
 .example
 verify_setup/settings/message_store_postgres.json
+script/

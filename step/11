@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Expected Version (Open)"
 
 # Commit: [STEP] Expected version (Open)
-checkout 33448f6 account-component
+checkout 0c2ed9f account-component

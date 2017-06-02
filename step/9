@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Open"
 
 # Commit: [STEP] Open
-checkout 82e973e account-component
+checkout 6826de4 account-component

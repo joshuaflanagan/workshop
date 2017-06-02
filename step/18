@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Consumer"
 
 # Commit: [STEP] Consumer
-checkout 7bd1e49 account-component
+checkout 9703148 account-component

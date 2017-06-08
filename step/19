@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "${BASH_SOURCE%/*}/step_init.sh"
+
+title "Review Funds Transfer"
+
+# Commit: [Step] Initiate Transfer
+checkout 1e7547f funds-transfer

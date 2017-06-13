@@ -5,4 +5,4 @@ source "${BASH_SOURCE%/*}/step_init.sh"
 title "Client Library (Withdraw)"
 
 # Commit: [STEP] Client (Withdraw)
-checkout 6b71f02 account-component
+checkout 509c593 account-component

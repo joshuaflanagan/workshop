@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-git clone https://github.com/eventide-tutorial/account-component.git
+git clone git@github.com:eventide-tutorial/account-component.git

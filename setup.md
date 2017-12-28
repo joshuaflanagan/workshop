@@ -72,7 +72,7 @@ cd verify_setup
 ### Install the Gems
 
 ```
-./install-gems.sh
+POSTURE=test ./install-gems.sh
 ```
 
 ### Create the Database
